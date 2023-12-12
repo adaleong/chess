@@ -20,3 +20,5 @@
 15. header 2 doesn't appear with correct formatting, I had an extra <p> so it defaulted to the formatting under p.
 16. Uploaded the image files for the king, added a header and description for the king
 17. Edited the titles for consistent formatting
+18. Edited the image files since they weren't loading
+19. Added a section for the queen
