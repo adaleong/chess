@@ -16,3 +16,4 @@
 11. Changed `background-color: rgb#4a6cea;` to `background-color: #4a6cea;` this this is a hex code, forgot to remove it the first time and the background colors defaulted to the text color.
 12. Edited the body text, changed the formatting for h2.
 13. Uploaded the images for 'The Board' section
+14. Removed the extra 'h1'
