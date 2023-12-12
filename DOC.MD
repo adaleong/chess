@@ -23,3 +23,5 @@
 18. Edited the image files since they weren't loading
 19. Added a section for the queen
 20. Uploaded the queen image file
+21. Uploaded an ad file
+22. Scaled the ad.
