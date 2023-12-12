@@ -18,3 +18,5 @@
 13. Uploaded the images for 'The Board' section
 14. Removed the extra 'h1'
 15. header 2 doesn't appear with correct formatting, I had an extra <p> so it defaulted to the formatting under p.
+16. Uploaded the image files for the king, added a header and description for the king
+17. Edited the titles for consistent formatting
