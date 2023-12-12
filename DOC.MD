@@ -25,3 +25,4 @@
 20. Uploaded the queen image file
 21. Uploaded an ad file
 22. Scaled the ad.
+23. Uploaded the rook section and image
