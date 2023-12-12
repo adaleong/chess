@@ -17,4 +17,4 @@
 12. Edited the body text, changed the formatting for h2.
 13. Uploaded the images for 'The Board' section
 14. Removed the extra 'h1'
-15. header 2 doesn't appear with correct formatting
+15. header 2 doesn't appear with correct formatting, I had an extra <p> so it defaulted to the formatting under p.
