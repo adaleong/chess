@@ -10,4 +10,6 @@
 ```</h1>
 <p>
   <h2>The Board</h2>```
-  9. 
+
+9. Changed the colors in the css file
+10. Added 'The Board' header and text, also I realized that the formatting was incorrect because I used h2 instead of h1, and the font section was placed in the wrong section in the styles.css section.
