@@ -14,3 +14,4 @@
 9. Changed the colors in the css file
 10. Added 'The Board' header and text, also I realized that the formatting was incorrect because I used h2 instead of h1, and the font section was placed in the wrong section in the styles.css section.
 11. Changed `background-color: rgb#4a6cea;` to `background-color: #4a6cea;` this this is a hex code, forgot to remove it the first time and the background colors defaulted to the text color.
+12. Edited the body text, changed the formatting for h2.
