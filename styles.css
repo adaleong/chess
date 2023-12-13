@@ -6,6 +6,7 @@ body {
     color: #D4D7D9;
     font-family: 'Trebuchet MS', sans-serif;;
     text-align: center;
+    font-size: 35px;
   }
   
   p {
@@ -17,5 +18,12 @@ body {
     color: #D4D7D9;
     font-family: 'Trebuchet MS', sans-serif;;
     text-align: left;
+    font-size: 24px;
+  }
 
+  blockquote {
+    color: #D4D7D9;
+    font-family: 'Trebuchet MS', sans-serif;;
+    text-align: center;
+    font-size: 14px;
   }
