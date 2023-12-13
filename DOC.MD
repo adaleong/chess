@@ -27,5 +27,24 @@
 22. Scaled the ad.
 23. Uploaded the rook section and image
 24. Created the sections for the bishop, knight, and pawns. I uploaded the images as well.
-25. Experimented with creating columns
+25. Experimented with creating columns with this code:
+```
+  <div class="row">
+    <div class="column"></div>
+    <h2>     THE PAWNS</h2
+    <div class="column"></div>
+    <h2>     THE PAWNS</h2
+  </div>
+```
 26. Changed the image width sizes all the 700px width for consistency.
+27. The column didn't really create columns so I'm trying this:
+```<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>```
