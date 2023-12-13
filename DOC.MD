@@ -28,3 +28,4 @@
 23. Uploaded the rook section and image
 24. Created the sections for the bishop, knight, and pawns. I uploaded the images as well.
 25. Experimented with creating columns
+26. Changed the image width sizes all the 700px width for consistency.
