@@ -27,7 +27,7 @@
 22. Scaled the ad.
 23. Uploaded the rook section and image
 24. Created the sections for the bishop, knight, and pawns. I uploaded the images as well.
-25. Experimented with creating columns with this code:
+25. Experimented with creating columns with this code and used this website as a resource: https://www.w3schools.com/howto/howto_css_two_columns.asp 
 ```
   <div class="row">
     <div class="column"></div>
@@ -48,3 +48,48 @@
     <p>Some text..</p>
   </div>
 </div>```
+28. Columns didn't work so tried this:
+```
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+```
+29. Added a section for basic strategy, changed the text style by adding
+```
+blockquote {
+    color: #D4D7D9;
+    font-family: 'Trebuchet MS', sans-serif;;
+    text-align: left;
+
+  }
+```
