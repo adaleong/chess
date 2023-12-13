@@ -26,3 +26,4 @@
 21. Uploaded an ad file
 22. Scaled the ad.
 23. Uploaded the rook section and image
+24. Created the sections for the bishop, knight, and pawns. I uploaded the images as well.
