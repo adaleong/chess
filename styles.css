@@ -20,9 +20,10 @@ body {
 
   }
 
-  blockquote {
+  body {
     color: #D4D7D9;
     font-family: 'Trebuchet MS', sans-serif;;
     text-align: left;
+    font-size: 57px;
 
   }
