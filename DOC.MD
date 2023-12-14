@@ -100,3 +100,4 @@ blockquote {
 34. Used this to figure out how to create more pages
 35. I decided that I could make a table of contents by linking pages at the top.
 36. Split the information into different sections.
+37. updated the css for the header
