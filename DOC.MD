@@ -102,3 +102,4 @@ blockquote {
 36. Split the information into different sections.
 37. updated the css for the header
 38. Pasted the header on every page
+39. Used this website to figure out how to change the background: https://www.w3schools.com/html/html_images_background.asp
