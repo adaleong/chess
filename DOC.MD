@@ -96,3 +96,4 @@ blockquote {
 30. Changed the blocktext to body.
 31. I spent an hour trying to fix the text, the blocktext color kept defaulting, enlarging, or showing as red in vs code until I realized that it was because the header above it didn't have a >
 32. Aligned the blockqoute text to the left.
+33. Changed the blockqoute text from the original formatting.
