@@ -106,3 +106,4 @@ blockquote {
 40. Uploaded an image background to all the pages.
 41. Created a menu title/banner for the front page.
 42. Used this website to create a custom cursor.
+43. Adjusted the font, type, etc. and played around with the sizes.
