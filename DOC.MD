@@ -98,3 +98,5 @@ blockquote {
 32. Aligned the blockqoute text to the left.
 33. Changed the blockqoute text from the original formatting.
 34. Used this to figure out how to create more pages
+35. I decided that I could make a table of contents by linking pages at the top.
+36. Split the information into different sections.
