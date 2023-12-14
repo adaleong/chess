@@ -105,3 +105,4 @@ blockquote {
 39. Used this website to figure out how to change the background: https://www.w3schools.com/html/html_images_background.asp
 40. Uploaded an image background to all the pages.
 41. Created a menu title/banner for the front page.
+42. Used this website to create a custom cursor.
